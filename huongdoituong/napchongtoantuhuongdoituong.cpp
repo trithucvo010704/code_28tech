@@ -5,7 +5,7 @@ class sv {
     private: 
     string id,ten, ns ;
     float gpa ; 
-    static int dem  ; 
+    static int dem  ;  
     public: 
     // tu xay dung constructor 
     string  getid (){
